@@ -1,0 +1,20 @@
+
+public class Sample 
+{
+
+   void addProduct()
+   {
+	   System.out.println("This is addProduct..");
+   }
+   void viewProduct()
+   {
+	   System.out.println("This is viewProduct..");
+   }
+	
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}
