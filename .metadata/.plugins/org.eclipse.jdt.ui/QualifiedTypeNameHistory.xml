@@ -4,4 +4,7 @@
     <fullyQualifiedTypeName name="Demo"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="ProductModel"/>
+    <fullyQualifiedTypeName name="ProductDAOImpl"/>
+    <fullyQualifiedTypeName name="Rectangle"/>
 </qualifiedTypeNameHistroy>
