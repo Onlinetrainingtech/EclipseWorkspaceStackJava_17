@@ -7,4 +7,7 @@
     <fullyQualifiedTypeName name="ProductModel"/>
     <fullyQualifiedTypeName name="ProductDAOImpl"/>
     <fullyQualifiedTypeName name="Rectangle"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
