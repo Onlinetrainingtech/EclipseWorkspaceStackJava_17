@@ -11,6 +11,10 @@ class Demo
 		{
 		System.out.println("Please Check the Exception");
 		}
+		finally
+		{
+			System.out.println("This is finally block");
+		}
 		get2();
 	}
 	void get2()
